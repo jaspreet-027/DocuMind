@@ -39,7 +39,7 @@ DocuMind is an AI-powered document assistant built with Streamlit. Upload PDFs, 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/DocuMind.git
+git clone https://github.com/jaspreet-027/DocuMind.git
 cd DocuMind
 ```
 
